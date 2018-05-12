@@ -1,0 +1,30 @@
+_repo: The-S.-W.-F.-Club_15562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacobs, Caroline Emilia
+    alias: Elliott, Emilia
+    birthdate: 1872
+    deathdate: 1909
+    gutenberg_agent_id: '5274'
+    url: http://www.gutenberg.org/2009/agents/5274
+description: ''
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farms -- Juvenile fiction'
+- !lcsh 'Vermont -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Benefactors -- Juvenile fiction'
+title: The S. W. F. Club
+url: http://www.gutenberg.org/ebooks/15562
